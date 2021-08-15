@@ -1,5 +1,5 @@
     sei = '永岡'
     mei = '孝'
     nenrei = 49
-    puts "こんにちは"+ sei + mei +"です。"+ nenrei + "です。"
+    puts sei + mei +"です。"+ nenrei.to_s + "です。"
     
